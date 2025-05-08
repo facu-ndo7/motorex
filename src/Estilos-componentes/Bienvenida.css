@@ -1,0 +1,31 @@
+.mensajeSaludo-titulo, .mensajeSaludo-descripcion{
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.mensajeSaludo{
+    margin-top: 6%;
+    margin-left: 5%;
+    width: 50vw;
+}
+
+.mensajeSaludo-titulo{
+    font-size: 290%;
+}
+
+.mensajeSaludo-descripcion{
+    margin-top: 2%;
+    font-size: 113%;
+    width: 36vw;
+    padding-left: 2%;
+}
+
+img{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20%;
+    margin-top: 3%;
+    margin-left: 3%;
+    cursor: pointer;
+}
